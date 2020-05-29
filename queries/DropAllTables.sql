@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS MovieDBAssign5.Movie_has_Genre;
+DROP TABLE IF EXISTS MovieDBAssign5.Movie_has_Keywords;
+DROP TABLE IF EXISTS MovieDBAssign5.Movie_has_Production_company;
+DROP TABLE IF EXISTS MovieDBAssign5.Movie_has_Production_country;
+DROP TABLE IF EXISTS MovieDBAssign5.Movie_has_Spoken_language;
+DROP TABLE IF EXISTS MovieDBAssign5.Movie;
+DROP TABLE IF EXISTS MovieDBAssign5.Genre;
+DROP TABLE IF EXISTS MovieDBAssign5.Keyword;
+DROP TABLE IF EXISTS MovieDBAssign5.Production_Company;
+DROP TABLE IF EXISTS MovieDBAssign5.Production_country;
+DROP TABLE IF EXISTS MovieDBAssign5.Spoken_language;
