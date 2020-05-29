@@ -2,14 +2,14 @@ Programmer: Jesse Griffin
 Movie Database
 3/21/19
 
-Program Description:
-    This program will create the necessary tables needed for our database. Then, it will
+Script Description:
+    This script will create the necessary tables needed for our database. Then, it will
     read the movie database csv file and iterate through each tuple, adding them to the
     appropriate table as it moves through the file. Finally, it will either perform the
     specified assignment query or perform all five assignment queries, if none is given.
 
-Run Program:
-    To run program, use command:
+Run Script:
+    To run script, use command:
     >python moviedb.py username password <query #>
 
     If python 3 is not set as default, use command:
